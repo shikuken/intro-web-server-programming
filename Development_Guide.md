@@ -265,14 +265,15 @@ app.listen(PORT, () => {
 
 ## 11. Entregable
 
-1. Realizar un **Fork** del repositorio base proporcionado por el docente.
-2. Implementar los endpoints de la API de tareas.
+1. Realizar un **Fork** del repositorio base proporcionado.
+2. Implementar los endpoints de la API de tareas (Actualizar el index.js).
 3. Probar la API usando Postman o Insomnia.
 4. Subir un video con duración no mayor a 5 min mostrando:
    - La ejecución de la API.
    - Las pruebas de los métodos POST, GET, PUT y DELETE.
    - Explicación del código y estructura.
    - Explicación de la guía y su utilidad
+5. Readme con: Nombre, Código enlace al video explicativo.
 
 ---
 
